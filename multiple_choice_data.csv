@@ -1,4 +1,4 @@
-trzydniowka,zespol_wstrzasu,kawasaki,hematologiczna,plonica,stevensa_johnsona,zapalenie_opon,histocytoza
+trzydniowka,zespol_wstrzasu,kawasaki,hematologiczna,plonica,stevensa_johnsona,zapalenie_opon,histocytoza,wielokomorkowe_zapalenie
 0,0,1,1,0,0,0,1,0
 0,0,1,0,0,0,0,0,0
 1,1,1,1,0,1,0,0,1
@@ -9,4 +9,3 @@ trzydniowka,zespol_wstrzasu,kawasaki,hematologiczna,plonica,stevensa_johnsona,za
 1,0,0,0,1,1,0,0,0
 0,1,0,1,0,1,0,0,1
 1,0,0,0,1,1,0,0,0
-
