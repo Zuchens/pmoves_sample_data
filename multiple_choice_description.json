@@ -1,14 +1,22 @@
 {
-   "description":"opis",
-   "question":"Wazne objawy",
+   "description":"10-miesięczną dziewczynkę przywieziono z wysoką gorączką trwającą od 8 dni. Dziecko straciło apetyt, jest stale rozdrażnione. Przez ostatnie cztery dni była leczona antybiotykami, po których nie uzyskano poprawy. Dziewczynka nie leczyła się na nic wcześniej. Rodzice podają, że urodziła się w 38-tym tygodniu ciąży z masą 3200 g. Do 6 miesiąca życia była karmiona piersią. Mama nie zauważyła wcześniej żadnej reakcji alergicznej ani odczynów po szczepieniach",
+   "question":"Co byś brał/brała pod uwagę do diagnostyki różnicowej u tej pacjentki?",
    "answers":[
-      "goraczka",
-      "bol brzucha",
-      "kropki na ciele",
-      "platanie sie"
+ "Trzydniówka",
+ "Zespół wstrząsu toksycznego",
+ "Choroba Kawasaki",
+ "Choroba hematologiczna",
+ "Płonica",
+ "Zespół Stevensa Johnsona",
+ "Wirusowe zapalenie opon mózgowych",
+"Histiocytoza z komórek Langerhansa",
+ "Wielokomórkowe zapalenie naczyń"
    ],
    "correct":[
-      "goraczka",
-      "kropki na ciele"
+ "Zespół wstrząsu toksycznego",
+ "Choroba Kawasaki",
+ "Choroba hematologiczna",
+ "Zespół Stevensa Johnsona",
+ "Wielokomórkowe zapalenie naczyń"
    ]
 }
