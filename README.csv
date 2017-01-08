@@ -1,9 +1,0 @@
-number,data,description,problem,analysis
-1,multiple_choice_data.csv, multiple_choice_description.json,multiple choice,apriori
-2,decision_data.csv, decision_description.json,simulation,decision
-3,labirynt_data.csv, labirynt_description.xml,labirynt,graph
-4,labirynt_data.csv, labirynt_description.xml,labirynt,straight_graph
-5,labirynt_data.csv, labirynt_description.xml,labirynt,dendrogram
-6,labirynt_data.csv, labirynt_description.xml,labirynt,radial
-7,multiple_choice_data.csv, multiple_choice_description.json,multiple choice,bar_chart
-8,labirynt_data.csv, labirynt_description.xml,labirynt,bar_chart
